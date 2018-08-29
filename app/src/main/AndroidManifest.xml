@@ -23,6 +23,8 @@
 
         <activity android:name=".LeagueActivity" />
         <activity android:name=".swoosh_toggle" />
+        <activity android:name=".BaseActivity" />
+        <activity android:name=".Skill_Activity"></activity>
     </application>
 
 </manifest>
