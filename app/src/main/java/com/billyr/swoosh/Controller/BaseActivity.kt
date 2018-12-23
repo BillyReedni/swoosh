@@ -1,4 +1,4 @@
-package com.billyr.swoosh
+package com.billyr.swoosh.Controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
